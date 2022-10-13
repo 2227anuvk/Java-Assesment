@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class Loop {
    public static void main(String[] args) {
 
       ArrayList<Integer> List_Array = new ArrayList<Integer>();
